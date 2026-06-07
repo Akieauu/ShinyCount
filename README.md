@@ -6,7 +6,6 @@
  
 ```bash
 pip install pillow pynput
-python shiny_counter.py
 ```
  
 ## Keyboard Shortcuts
